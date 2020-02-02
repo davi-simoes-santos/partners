@@ -1,0 +1,62 @@
+.middle-box{
+ padding-top: 20px !important;
+}
+
+span{
+    margin: 0px 100px !important;
+    text-align: center !important;
+    font-size: 10px !important;
+}
+
+.form-control{
+    border-radius: 20px !important;
+    border: 1px #dfb704 solid !important;
+}
+
+a.btn{
+    border: none !important;
+    background-color: green !important;
+}
+
+button{
+    border: none !important;
+    background-color: green !important;
+}
+
+.panel-success > .panel-heading {
+    border: none !important
+}
+
+.m-t {
+    margin-top: -30px;
+}
+
+div.row {
+padding: 0 !important;
+margin: 0px !important;
+}
+
+.pull-right {
+    float: right!important;
+}
+
+.panel-login {
+    border-radius: 10px !important;
+    border: none !important;
+    overflow: hidden !important;
+}
+
+img{
+    max-width:80% !important;
+    margin: 0px 100px !important;
+}
+
+div.panel-heading {
+    background-color: rgb(255, 255, 255) !important;   
+    
+}
+
+label{
+    color:black !important;
+    font-size: 15px !important;
+}
